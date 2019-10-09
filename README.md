@@ -1,2 +1,5 @@
 # karthiktrex
-Contains a sample code for python with bugs
+
+Data science expert in the making
+Front end developer
+Arduino IDE enthusiast
