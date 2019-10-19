@@ -8,7 +8,7 @@ def fun(x):
                 repeated.append(x[i])
     return repeated;
                 
-print("the duplicate elements in the list are")
+print("the duplicate elements in the list are given below")
 list=[20,20,10,10]
 result=[]
 result=fun(list)
